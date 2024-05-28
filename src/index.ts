@@ -31,7 +31,7 @@ interface CollectionNftData {
 const nftData = {
   name: "Name",
   symbol: "SYMBOL",
-  description: "Description",
+  description: "Description nft",
   sellerFeeBasisPoints: 0,
   imageFile: "solana.png",
 }
